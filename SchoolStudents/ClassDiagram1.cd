@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SchoolStudents.Form1">
+    <Position X="7.25" Y="0.75" Width="2.75" />
+    <Members>
+      <Field Name="btnDelete" Hidden="true" />
+      <Field Name="btnInsert" Hidden="true" />
+      <Field Name="btnNextPage" Hidden="true" />
+      <Field Name="btnPreviousPage" Hidden="true" />
+      <Field Name="btnRefresh" Hidden="true" />
+      <Field Name="btnSave" Hidden="true" />
+      <Field Name="btnUpdate" Hidden="true" />
+      <Field Name="checkFilter" Hidden="true" />
+      <Field Name="checkPagination" Hidden="true" />
+      <Field Name="comboFilterBy" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="conn" Hidden="true" />
+      <Field Name="dgvData" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Form1" Hidden="true" />
+      <Method Name="Form1_Load" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="labelClassID" Hidden="true" />
+      <Field Name="labelClubID" Hidden="true" />
+      <Field Name="labelEntryDate" Hidden="true" />
+      <Field Name="labelFirstName" Hidden="true" />
+      <Field Name="labelLastName" Hidden="true" />
+      <Field Name="labelMiddleName" Hidden="true" />
+      <Field Name="labelPhone" Hidden="true" />
+      <Field Name="labelRecordsPerPage" Hidden="true" />
+      <Field Name="labelSex" Hidden="true" />
+      <Field Name="labelTotalPageCount" Hidden="true" />
+      <Field Name="rbFemale" Hidden="true" />
+      <Field Name="rbMale" Hidden="true" />
+      <Field Name="sideBar" Hidden="true" />
+      <Field Name="txtClassID" Hidden="true" />
+      <Field Name="txtClubID" Hidden="true" />
+      <Field Name="txtCurrentPage" Hidden="true" />
+      <Field Name="txtEntryDate" Hidden="true" />
+      <Field Name="txtFirstName" Hidden="true" />
+      <Field Name="txtInput1" Hidden="true" />
+      <Field Name="txtInput2" Hidden="true" />
+      <Field Name="txtLastName" Hidden="true" />
+      <Field Name="txtMiddleName" Hidden="true" />
+      <Field Name="txtPhone" Hidden="true" />
+      <Field Name="txtRecordsPerPage" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>gjCZAAEABCESCgQQkAiAUMILAQTAgBgDBG0AZgKBIZ4=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolStudents.Program">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
